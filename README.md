@@ -47,9 +47,13 @@ Discovered customer purchasing patterns
 Highlighted factors affecting revenue and profit
 
 # Project Preview
-
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/ea50d669-d778-405f-b9ba-3c896c597445" />
-
+<img width="1920" height="1080" alt="ETL Process" src="https://github.com/user-attachments/assets/ff408203-21d7-4fe8-9bdc-d2da2a942582" />
+<img width="1920" height="1080" alt="Missing Values" src="https://github.com/user-attachments/assets/7a7314ef-bba4-41d8-bd16-b14f6d861ad5" />
+<img width="1920" height="1080" alt="Cleaned Verification" src="https://github.com/user-attachments/assets/d975555c-37f4-4cc3-a509-8764f1e58291" />
+<img width="1920" height="1080" alt="Trend Patterns" src="https://github.com/user-attachments/assets/337abb26-e7fb-412f-a60f-4b3e28c1abfc" />
+<img width="1920" height="1080" alt="Visualization" src="https://github.com/user-attachments/assets/b4edd7c3-2ee5-4266-8040-7318a1d7121b" />
+<img width="1920" height="1080" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/19e0c7e7-152c-4098-86c6-6959625d98f2" />
+<img width="1920" height="1080" alt="Top 10 Countries" src="https://github.com/user-attachments/assets/907edc91-e4d1-48ac-8e85-4934e8e0049e" />
 
 # Conclusion
 
